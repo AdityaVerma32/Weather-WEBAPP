@@ -9,6 +9,7 @@
   "author": "Aditya Verma",
   "license": "ISC",
   "dependencies": {
+    "mongoose": "^7.1.0",
     "request": "^2.88.2"
   }
 }
